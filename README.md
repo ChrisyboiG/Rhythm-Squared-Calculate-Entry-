@@ -11,3 +11,6 @@ The red line changes the current equation every 15 seconds.
 
 Play the bonus number catcher minigame too!
 
+
+
+Credit to Michael Jackson for the song
